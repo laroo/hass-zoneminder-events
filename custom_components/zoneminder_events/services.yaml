@@ -1,0 +1,9 @@
+trigger_alarm:
+  description: Trigger alarm in Zoneminder for monitor id.
+  fields:
+    name:
+      description: Zoneminder name
+      example: default
+    id:
+      description: Monitor ID
+      example: 1
